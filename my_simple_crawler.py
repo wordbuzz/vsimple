@@ -52,6 +52,6 @@ def parse_page(fname):
     for el in (soup.findAll('h3')):
         print(el)
 
-#parse_page('pg1')
+parse_page('pg1')
 
 

@@ -1,1 +1,9 @@
 pg1
+
+.*.swp
+.*.*.swp
+
+*.py.swo
+*.swo
+*.py.bak
+
