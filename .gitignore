@@ -7,3 +7,7 @@ pg1
 *.swo
 *.py.bak
 
+
+#log
+*.log
+
